@@ -17,8 +17,8 @@ allowing two players to play chess over a network.
 
 <table>
   <tr>
-    <td><img src="https://github.com/ravidp30/ChessGame/blob/master/ChessGameGIF1.gif?raw=true" alt="Player 1 1" width="350"></td>
-    <td><img src="https://github.com/ravidp30/ChessGame/blob/master/ChessGameGIF2.gif?raw=true" alt="Player 2" width="350"></td>
+    <td><img src="https://github.com/ravidp30/ChessGame/blob/master/ChessGameGIF1.gif?raw=true" alt="Player 1 1" width="380"></td>
+    <td><img src="https://github.com/ravidp30/ChessGame/blob/master/ChessGameGIF2.gif?raw=true" alt="Player 2" width="380"></td>
   </tr>
 </table>
 
